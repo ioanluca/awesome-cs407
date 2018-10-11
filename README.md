@@ -5,4 +5,6 @@ Anyone who wants to push to the repo without having to make a pull request needs
 
 Also, this repository empty at the moment so if you have any suggestions about how to organize it I suggest you create one issue per suggestion. 
 
+Here's a [Markdown guide](https://guides.github.com/features/mastering-markdown/)
+
 
