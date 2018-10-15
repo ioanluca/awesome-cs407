@@ -41,3 +41,21 @@ A secure password has:
 - lowercase + uppercase
 - numbers
 - is not a common word
+
+### Entropy
+TODO
+
+### Storage
+- store hashes, need good hashing alg -> otherwise hash collisions
+- add salt, a random string of chars to protect against rainbow table attacks
+
+### Attacking
+- brute force
+- dictionary
+- rainbow table - precomputed hashes in a lookup table from plain text to hashes in diff algorithms
+- guessing attack 
+  - limit with number of attempts
+    - timeout or ask user to change password
+- use reset functionality (LOL)
+
+    
