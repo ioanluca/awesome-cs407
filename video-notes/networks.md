@@ -37,5 +37,51 @@ the same but can't broadcast
 they can also connect to internet and protect the LAN
 
 
+# OSI 
+- open systems interconnection model
+- theoretical model for communication
+- protocol independent
+
+## 7 Layers
+they depend on each other and they prepare data for the
+next level
+
+## Internet protocol suite
+
+internet - network of networks
+
+
+
+
+## TCP / IP
+
+TCP - transmission control protocol
+IP - internet protocol
+
+### Application
+- app protocol - `http` \ `ftp`
+
+### Transport
+TCP ports
+`80` for `http`
+
+
+### Network
+routing data
+
+uses ip
+
+### Link
+responsible for passing packets
+
+
+### ip 
+socket = ip + port
+
+tcp - verifies the correct delivery of data from
+client to server 
+
+
+
 
 
